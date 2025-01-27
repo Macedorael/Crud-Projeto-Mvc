@@ -1,0 +1,49 @@
+# Logs
+*.log
+*.tlog
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Build Results
+bin/
+obj/
+
+# ASP.NET Temporary Files
+**/wwwroot/*
+!**/wwwroot/*.config
+!**/wwwroot/*.json
+!**/wwwroot/*.html
+!**/wwwroot/**/*.css
+!**/wwwroot/**/*.js
+!**/wwwroot/**/*.jpg
+!**/wwwroot/**/*.png
+
+# Entity Framework Migrations
+*.designer.cs
+
+# Database Files
+*.mdf
+*.ldf
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*
+
+# User-specific Files
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.vscode/
